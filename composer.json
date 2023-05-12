@@ -1,0 +1,18 @@
+{
+    "name": "vendor/achb-library",
+    "description": "Escribe aquí una descripción corta y concisa",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Achb\\AchbLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ALFONSO CHAVEZ",
+            "email": "achavezb@siesa.com"
+        }
+    ],
+    "require": {}
+}
