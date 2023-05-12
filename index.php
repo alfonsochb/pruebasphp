@@ -5,6 +5,8 @@ use Achb\AchbLibrary\Class\AchbResources AS Resource;
 
 /**
  * @link https://blog.pleets.org/article/crear-librer%C3%ADa-en-php-instalable-con-composer
+ * @link https://culttt.com/2014/05/07/create-psr-4-php-package/
+ * @link https://styde.net/creacion-de-una-nueva-libreria-para-laravel-con-composer-y-phpunit/
  */
 class Pruebas
 {

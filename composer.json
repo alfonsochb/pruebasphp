@@ -3,16 +3,23 @@
     "description": "Escribe aquí una descripción corta y concisa",
     "type": "library",
     "license": "MIT",
+    "keywords": ["recursos"],
+    "authors": [
+        {
+            "name": "ALFONSO CHAVEZ",
+            "email": "achavezb@achbdomain.com",
+            "homepage": "http://achbdomain.com"
+        }
+    ],
+    "require": {},
     "autoload": {
         "psr-4": {
             "Achb\\AchbLibrary\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "ALFONSO CHAVEZ",
-            "email": "achavezb@siesa.com"
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
         }
-    ],
-    "require": {}
+    }
 }
